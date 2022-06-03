@@ -21,3 +21,5 @@ Los argumentos son variables que estan dentro de los parentesis las cuales podem
 Otro elemento de las funciones es la declaracion "return". Esto sirve para devolver algo de la funcion
 al utilizar return todo el codigo que le sigue dentro de esa funcion no se leera.
 
+"DECLARACIONES IF"
+La palabra clave if sirve para utilizar controles de flujo, es decir una forma que tiene la funcion de saber si algo es true. Segun si es true o no, la funcion ejecutara un codigo u otro
