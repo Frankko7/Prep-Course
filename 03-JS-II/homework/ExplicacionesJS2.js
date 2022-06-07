@@ -1,7 +1,5 @@
 "Bucle for"
 
-const { doesNotMatch } = require("assert")
-
 el bucle  for ayuda a repetir un bloque de codigo cuantas veces deseemos.
 en el bucle for se deben declarar contador de cantidad de repeticiones del bucle, condicion de frenado y 
 paso, es decir como quiero que se incremenete el valor.
