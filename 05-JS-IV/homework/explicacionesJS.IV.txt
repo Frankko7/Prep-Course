@@ -1,0 +1,22 @@
+"OBJETOS"
+Un objeto es una colecccion de propiedades 
+Ejemplo 
+var objeto = {
+    propiedad1=valor1,
+    propiedad2=valor2,
+}
+
+"PROPIEDADES"
+Una propiedad es una asociacion entre un nombre y un valor 
+el nombre tambien es llamado key word  y nos permite acceder a las propiedades del objeto, asi como cambiarlas.
+
+"METODO"
+Los metodos son las funciones guardadas dentro de un objeto
+
+"BUCLE FOR IN"
+Este bucle sirve para recorrer objetos para poder acceder a cada una de las propiedades del objeto
+
+"NOTACION DE PUNTOS VS NOTACION DE CORCHETES"
+Estos son dos formas diferentes para acceder a los valores dentro de las propiedades del objeto
+La NOTACION de puntos o dot notation se utiliza poniendo el nombre del objeto, un punto y la propiedad del objeto
+La notacion de corchetes o bracket notation se utliza poniendo el nombre del objeto, y entre corchetes [] la propiedad.
