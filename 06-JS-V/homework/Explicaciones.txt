@@ -1,0 +1,8 @@
+"Prototype"
+Todos los objetos de JavaScript tienen referencia a un Prototype
+Sirve para compartir metodos entre clases
+
+"Constructors (de clases)"
+Las funciones constructoras o Constructors sirven para definir la plantilla para la creacion de objetos.
+Tienen que empezar con mayuscula
+
